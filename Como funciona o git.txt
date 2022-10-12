@@ -1,0 +1,2 @@
+Task 1 
+Como funciona o Git e quais são os comandos principais?
