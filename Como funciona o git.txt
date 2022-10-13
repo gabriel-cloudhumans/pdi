@@ -1,2 +1,4 @@
 Task 1 
 Como funciona o Git e quais são os comandos principais?
+ Usar o git para versionar a Missão: Criar uma Cloud Function na GCP 
+com Python que recebe um método POST e retorne valores. Integre com o Retool.
